@@ -1,0 +1,25 @@
+body{
+    background-color: blue;
+}
+
+
+.style {
+    margin: 0px;
+    width: 725px;
+    height: 198px;
+}
+
+/* .h2{
+    margin-top: 20%;
+} */
+
+p{
+    margin-left: 32%;
+}
+
+.about{
+    margin-left: 25rem;
+}
+head{
+    background-color: brown;
+}
